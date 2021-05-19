@@ -11,7 +11,7 @@ Este projeto usa Expo [https://expo.io/].
 <img src="https://user-images.githubusercontent.com/62677231/118855899-b1b13b00-b8ac-11eb-9e84-d447a4a76014.jpg" width="300" height="500">
 <img src="https://user-images.githubusercontent.com/62677231/118855923-b7a71c00-b8ac-11eb-928b-edf65c460007.jpg" width="300" height="500">
 
-#🖥 Tecnologias 🖥
+# 🖥 Tecnologias 🖥
 
 - redux
 - redux persist
@@ -20,11 +20,11 @@ Este projeto usa Expo [https://expo.io/].
 - react navigation
 - styled-components
 
-#⚙ Instalação ⚙
+# ⚙ Instalação ⚙
 
  - git clone https://github.com/Marcos-Nacimento/e-commerce-v2
  - yarn install ou npm install
 
-#🚀 Execução 🚀
+# 🚀 Execução 🚀
 
  - yarn start ou npm start
