@@ -17,3 +17,12 @@ Este projeto usa Expo [https://expo.io/].
 - lottie animations
 - react navigation
 - styled-components
+
+#⚙ Instalação ⚙
+
+ - git clone https://github.com/Marcos-Nacimento/e-commerce-v2
+ - yarn install ou npm install
+
+#🚀 Execução 🚀
+
+ - yarn start ou npm start
