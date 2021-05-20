@@ -3,7 +3,7 @@
 Mini e-commerce deselvolvido em React native, basicamente esse aplicativo permite que o cliente faça
 Suas compra de casa e em seguida envia a lista das compras para o atendente via WhatsApp.
 
-link do repositório do backend: [https://github.com/Marcos-Nacimento/back-end-super-mercado].
+link do repositório do [BackEnd](https://github.com/Marcos-Nacimento/back-end-super-mercado).
 
 Este projeto usa [Expo](https://expo.io/).
 
